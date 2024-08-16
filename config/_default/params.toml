@@ -1,10 +1,10 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "NirantK"
+title = "Dhruv Anand"
 titleSeparator = "-"
-titleAddition = "ML/AI Engineer"
-description = "ML/AI Engineer with 7+ years of experience in building and deploying ML/AI solutions across eCommerce, Healthcare, and Financial Services"
+titleAddition = "AI Consultant"
+description = "AI Consultant with 10 years of experience in designing and improving Search, Recommendation and RAG systems for Big Tech, startups and enterprises."
 
 ## Documentation
 # docsVersion = "0.3"
@@ -12,12 +12,12 @@ description = "ML/AI Engineer with 7+ years of experience in building and deploy
 ## Open Graph
 images = ["NK.jpg"]
 ogLocale = "en_US"
-domainTLD = "https://nirantk.com"
-titleHome = "NirantK"
+domainTLD = "https://ainorthstartech.com"
+titleHome = "Dhruv Anand"
 
 ## Twitter Cards
-twitterSite = "@NirantK"
-twitterCreator = "@NirantK"
+twitterSite = "@dhruv___anand"
+twitterCreator = "@dhruv___anand"
 
 ## JSON-LD
 schemaType = "Person"
@@ -68,7 +68,7 @@ fillImage = "1270x740 Center" # normalize image size
 footer = "Powered by <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>'s <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a> Theme"
 
 # Feed
-copyRight = "Copyright (c) 2018-Present Nirant K"
+copyRight = "Copyright (c) 2024-Present Dhruv Anand"
 
 # Alert
 alert = false

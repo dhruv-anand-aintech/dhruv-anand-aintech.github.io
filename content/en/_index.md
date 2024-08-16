@@ -1,7 +1,7 @@
 ---
-title : "Nirant Kasliwal"
-description: "Machine Learning/AI Engineer"
-lead: "ML/AI Engineer"
+title : "Dhruv Anand"
+description: "AI Consultant"
+lead: "AI Consultant"
 date: 2020-10-06T08:47:36+00:00
 lastmod: 2020-10-06T08:47:36+00:00
 draft: false

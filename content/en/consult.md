@@ -10,50 +10,7 @@ weight: 100
 toc: true
 ---
 
-> This page is copied from [Jason Liu](https://github.com/jxnl/blog/blob/main/docs/services.md) -- a solid example of an AI Engineer, and you should check out his work.
-
-I've been building and deploying real-world AI solutions since 2016. My goal is to help you minimize regret by sharing my lessons and giving you a clear vision on what to invest in and what to build. I'll help you cut through the bloat of implementing an AI strategy to improve your team's productivity and, in turn, help you grow revenue.
-
-I have worked with leading companies on AI products such as [Qdrant](https://qdrant.tech/), [Defog](https://defog.ai), [Bola](https://bola.ai/), [Betafi.co](https://www.betafi.co/), and [Thena](https://www.thena.ai/). I've worked across multiple LLMs, vector databases, chat bots, retrieval, ranking, and summarization.
-
-I'm not your typical consultant: I believe in long term relationships, and I'll tell you if your AI project is a waste of time and money.
-
-Take a look, and shoot me an [email](mailto:nirant.bits@gmail.com) about what your team is looking for.
-
-## Background
-
-- Recently built and scaled [FastEmbed](https://qdrant.github.io/fastembed) to ~1M installs/year, an embedding library built for speed using ONNX 
-    - It is now forked and maintained by [Qdrant](https://qdrant.tech/) (2024)
-- Benchmarked and profiled Binary Quantization at [Qdrant](https://qdrant.tech/) (2023)
-- Top 5 GenAI Scientists in India, [Analytics India Magazine](https://www.analyticsvidhya.com/datahack-summit-2023/award-nomination/) (2023)
-- Book Author: [NLP in Python: Quickstart Guide](https://read.amazon.in/kp/embed?asin=B07L3PLQS1&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_MRBPRC9ZWRC8B4SKT74X)
-- Built the first [Hindi LM](https://github.com/NirantK/hindi2vec) (2018)
-- Deployed Sentence Transformers and Annoy for cosine similarity-powered search in production (2018)
-- Managed a team of 3 engineers to build a support chatbot handling 1M chat messages per month (2019-2021)
-
-## Problems I Solve
-
-My expertise includes:
-
-- LLM integration and optimization
-- Vector database implementation and optimization
-- Retrieval-augmented generation
-- Query understanding
-- Embedding fine-tuning
-
-You should consider hiring me if:
-
-- You don't know how to improve your LLM products systematically
-- You are overwhelmed by tools & frameworks
-- Feel lost on what to prioritize and what experiments you should run
-- Need outside expertise to evaluate your needs and vet potential talent
-
-What I will avoid doing since it's not a great use of your time and money:
-
-- Data annotation and collection
-- MLOps and DevOps
-- Data engineering
-- Referring folks for hiring
+> This page is taken from [Nirant Kasliwal](https://github.com/NirantK/nirantk.github.io/blob/main/content/en/consult.md) -- an amazing AI Engineer, and you should check out his work.
 
 ## Services
 
@@ -108,13 +65,3 @@ Pricing:
 - Comprehensive Consulting: $75,000 for a minimum 3 month commitment
 
 To discuss starting an engagement, please contact me at `nirant.bits@gmail.com`. You can also [WhatsApp me](https://wa.link/p0ryhu) if you need immediate short-form advice.
-
-## Notable Achievements
-
-1. Dr. Andrew Ng recommends [Awesome NLP](https://github.com/keon/awesome-nlp), a repo I've maintained since 2018 at Stanford's Deep Learning course [CS 230](https://cs230.stanford.edu/section/1/).
-2. Top 5 GenAI Scientists in India, [Analytics India Magazine](https://www.analyticsvidhya.com/datahack-summit-2023/award-nomination/)
-3. Author of [NLP in Python: Quickstart Guide](https://read.amazon.in/kp/embed?asin=B07L3PLQS1&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_MRBPRC9ZWRC8B4SKT74X)
-4. Published research on code-mixed languages (Hinglish) in [ACL 2019](https://aclanthology.org/2020.semeval-1.119/)
-5. Maintainer of popular GitHub repositories:
-   - [Awesome Project Ideas](https://github.com/NirantK/awesome-project-ideas)
-   - [Awesome NLP](https://github.com/keon/awesome-nlp)
