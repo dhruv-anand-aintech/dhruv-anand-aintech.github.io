@@ -11,3 +11,4 @@ toc: true
 ---
 
 I'm Dhruv Anand, an AI Consultant.
+Founder and CEO of AI Northstar Tech. I help enterprises leverage AI to improve their business outcomes.
