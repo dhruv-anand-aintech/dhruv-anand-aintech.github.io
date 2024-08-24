@@ -1,6 +1,6 @@
 [[main]]
-  name = "Writing"
-  url = "/writing/"
+  name = "Blog"
+  url = "/blog/"
   weight = 20
 
 [[main]]
@@ -23,7 +23,7 @@
   parent = "work-with-me"
 
 [[main]]
-  name = "Consult"
+  name = "Book a Consultation"
   weight = 30
   identifier = "consult"
   url = "/consult"

@@ -15,27 +15,13 @@
 
 {{ define "sidebar-prefooter" }}
 <section class="section section-sm">
-  <div class="container">
-    <div class="row justify-content-center text-center">
-      <div class="col-lg-5">
-        <h2 class="h4">AI Engineer⚡️</h2>
-        <p>Focus Areas: RAG, Search Ranking, Text2SQL</p>
-        <p><b>Related:</b> What is an <a href="https://www.latent.space/p/ai-engineer">AI Engineer?</a></p>
-      </div>
-    </div>
-    <div class="row justify-content-center text-center">
-    </div>
-    </div>
-  </div>
 </section>
 {{ end }}
 
 {{ define "sidebar-footer" }}
-<section class="section section-sm container-fluid">
-  <div class="row justify-content-center text-center">
-    <div class="col-lg-9">
-      {{- .Content -}}
-    </div>
+<section class="section-sm">
+  <div class="text-center">
+    {{- .Content -}}
   </div>
 </section>
 {{ end }}

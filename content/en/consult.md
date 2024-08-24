@@ -10,7 +10,7 @@ weight: 100
 toc: true
 ---
 
-> This page is taken from [Nirant Kasliwal](https://github.com/NirantK/nirantk.github.io/blob/main/content/en/consult.md) -- an amazing AI Engineer, and you should check out his work.
+> This page is inspired by [Nirant Kasliwal](https://NirantK.com)'s [page](https://github.com/NirantK/nirantk.github.io/blob/main/content/en/consult.md) -- an amazing AI Engineer, and you should check out his work.
 
 ## Services
 
@@ -27,7 +27,7 @@ I will help you cut through the bloat of implementing an AI strategy to improve 
 - **Expert Network:** Connect with leading specialists across various fields to expand your business network
 - **Hiring:** Help you understand the quantitative skills needed for upcoming AI and ML roles
 
-This is best suited for companies looking to get a high-level overview of their AI strategy and need guidance on how to improve their AI capabilities.
+This is best suited for companies that are looking to get an assessment of their high-level AI strategy and need guidance on how to leverage AI in better ways, using cutting-edge techniques and models.
 
 ### 2. Comprehensive Consulting
 

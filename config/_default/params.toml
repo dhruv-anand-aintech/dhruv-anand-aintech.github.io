@@ -56,13 +56,13 @@ smallLimit = "300"
 # Images
 imageResponsive = true
 imageConvertTo = "webp"
-imageImageSizes = ["480","720","1080","1280","1600","2048"]
+imageImageSizes = ["480", "720", "1080", "1280", "1600", "2048"]
 singleSize = false
 imageAddClass = "img-fluid lazyload blur-up"
 
 ### Image template
 defaultImage = "default-image.png" # put in `./assets/images/`
-fillImage = "1270x740 Center" # normalize image size
+fillImage = "1270x740 Center"      # normalize image size
 
 # Footer
 footer = "Powered by <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>'s <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a> Theme"
@@ -87,28 +87,28 @@ editPage = false
 lastMod = false
 
 [sections]
-  sectionNav = ["docs", "guides"]
+sectionNav = ["docs", "guides"]
 
 [options]
-  lazySizes = true
-  clipBoard = true
-  instantPage = true
-  flexSearch = true
-  searchSectionsShow = []
-  searchSectionsIndex = []
-  darkMode = true
-  bootStrapJs = true
-  breadCrumb = false
-  highLight = true
-  kaTex = false
-  multilingualMode = false
-  docsVersioning = false
-  fullWidth = false
-  navbarSticky = true
-  toTopButton = false
-  scrollSpy = false # experimental; needs Bootstrap >= 5.2.0-beta1
+lazySizes = true
+clipBoard = true
+instantPage = true
+flexSearch = true
+searchSectionsShow = []
+searchSectionsIndex = []
+darkMode = true
+bootStrapJs = true
+breadCrumb = false
+highLight = true
+kaTex = false
+multilingualMode = false
+docsVersioning = false
+fullWidth = false
+navbarSticky = true
+toTopButton = false
+scrollSpy = false        # experimental; needs Bootstrap >= 5.2.0-beta1
 
 [menu]
-  [menu.section]
-    auto = true
-    collapsibleSidebar = true
+[menu.section]
+auto = true
+collapsibleSidebar = true
