@@ -2,10 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on </title>
-    <link>http://localhost:4966/blog/</link>
+    <link>http://localhost:4171/blog/</link>
     <description>Recent content in Blogs on </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:4966/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4171/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:4171/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4171/blog/</guid>
+      <description>&lt;!DOCTYPE html&gt; Hello, Quarto Hello, Quarto Markdown Markdown is an easy to read and write text format:&#xA;It’s plain text so works well with version control It can be rendered into HTML, PDF, and more Learn more at: https://quarto.org/docs/authoring/ Code Cell Here is a Python code cell:&#xA;import os os.cpu_count() 8 Equation Use LaTeX to write equations:&#xA;\[ \chi&#39; = \sum_{i=1}^n k_i s_i^2 \]</description>
+    </item>
   </channel>
 </rss>
